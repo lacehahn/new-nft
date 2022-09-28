@@ -18,5 +18,8 @@
   "homepage": "https://github.com/lacehahn/new-nft#readme",
   "devDependencies": {
     "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
   }
 }
